@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.eb0d076a.css",
+    "main.js": "/react-website/static/js/main.7860a1f1.js",
+    "static/js/830.27b62e37.chunk.js": "/react-website/static/js/830.27b62e37.chunk.js",
+    "static/js/122.f123620c.chunk.js": "/react-website/static/js/122.f123620c.chunk.js",
+    "static/js/794.6b419e76.chunk.js": "/react-website/static/js/794.6b419e76.chunk.js",
+    "static/js/787.a95b438b.chunk.js": "/react-website/static/js/787.a95b438b.chunk.js",
+    "static/media/primeicons.svg": "/react-website/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/react-website/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/react-website/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/react-website/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/react-website/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/color.png": "/react-website/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/react-website/index.html",
+    "main.eb0d076a.css.map": "/react-website/static/css/main.eb0d076a.css.map",
+    "main.7860a1f1.js.map": "/react-website/static/js/main.7860a1f1.js.map",
+    "830.27b62e37.chunk.js.map": "/react-website/static/js/830.27b62e37.chunk.js.map",
+    "122.f123620c.chunk.js.map": "/react-website/static/js/122.f123620c.chunk.js.map",
+    "794.6b419e76.chunk.js.map": "/react-website/static/js/794.6b419e76.chunk.js.map",
+    "787.a95b438b.chunk.js.map": "/react-website/static/js/787.a95b438b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0d076a.css",
+    "static/js/main.7860a1f1.js"
+  ]
+}

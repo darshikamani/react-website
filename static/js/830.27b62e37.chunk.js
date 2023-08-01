@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_redux=self.webpackChunkreact_redux||[]).push([[830],{830:function(n,e,r){r.r(e);var c=r(580),u=r(434),t=r(184);e.default=function(){var n=(0,u.v9)((function(n){return n.Counter.value}));console.log("count",n);var e=(0,u.I0)();return(0,t.jsx)(t.Fragment,{children:(0,t.jsxs)("p",{onClick:function(){e((0,c.nP)())},children:["click",n]})})}}}]);
+//# sourceMappingURL=830.27b62e37.chunk.js.map
